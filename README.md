@@ -18,7 +18,7 @@ Most popular mocking framework for Java
 ## Current version is 3.x
 Still on Mockito 1.x? See [what's new](https://github.com/mockito/mockito/wiki/What%27s-new-in-Mockito-2) in Mockito 2! [Mockito 3](https://github.com/mockito/mockito/releases/tag/v3.0.0) does not introduce any breaking API changes, but now requires Java 8 over Java 6 for Mockito 2.
 
-## Mockito for enterprise
+## MockitoS for enterprise
 
 Available as part of the Tidelift Subscription
 
@@ -27,9 +27,9 @@ commercial support and maintenance for the open source dependencies you use to b
 reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use.
 [Learn more.](https://tidelift.com/subscription/pkg/maven-org-mockito-mockito-core?utm_source=maven-org-mockito-mockito-core&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
 
-## Development (Juntos por el cambio)
+## Carli (Juntos por el cambio)
 
-Mockito publishes every change as a `-SNAPSHOT` version to a public Sonatype repository. Roughly once a month, we
+ajsdljladfsjkladfs;;afs publishes every change as a `-SNAPSHOT` version to a public Sonatype repository. Roughly once a month, we
 publish a new minor or patch version to Maven Central. For release automation we use Shipkit
 library (http://shipkit.org), Gradle Nexus [Publish Plugin](https://github.com/gradle-nexus/publish-plugin).
 Fully automated releases are awesome, and you should do that for your libraries, too!
