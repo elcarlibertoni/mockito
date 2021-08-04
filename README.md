@@ -27,7 +27,7 @@ commercial support and maintenance for the open source dependencies you use to b
 reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use.
 [Learn more.](https://tidelift.com/subscription/pkg/maven-org-mockito-mockito-core?utm_source=maven-org-mockito-mockito-core&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
 
-## Development (Junto por el cambio)
+## Development (Juntos por el cambio)
 
 Mockito publishes every change as a `-SNAPSHOT` version to a public Sonatype repository. Roughly once a month, we
 publish a new minor or patch version to Maven Central. For release automation we use Shipkit
